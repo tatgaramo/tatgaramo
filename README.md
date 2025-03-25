@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, Soy Tatiana Garijo Amorós</h1>
+<h3 align="center">Estudiante de DAM | Desarrollo de software y aplicaciones multiplataforma</h3>
+
+- 🌱 Actualmente me encuentro aprendiendo sobre: ​​**Power BI (IBM - Datahack), Análisis de datos (Google), SQL (Fundae)**
+
+- 📫 Cómo llegar a mí **garijoamorostatiana@gmail.com**
+
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **tatgaramo/tatgaramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
